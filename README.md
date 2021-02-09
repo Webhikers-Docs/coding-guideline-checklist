@@ -2,6 +2,8 @@
 
 This is a short checklist for you. Please check it once before you start to code and once again before you submit your work to us.
 
+Please make sure that:
+
 1. Only for `Nuxt.js` projects: `Bootstrap-vue` is **not** imported repeatedly in multiple `Vue.js components`. [Details](https://github.com/Webhikers-Docs/nuxt-bootstrap-doc)
 
 2. Each page's `content` (everything between `header` and `footer`) is split into single `Vue.js components` for each `section` of the page, if there is more than one `section` on the page. [Details](https://github.com/Webhikers-Docs/code-architecture#modular-components)
