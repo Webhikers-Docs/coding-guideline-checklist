@@ -1,6 +1,6 @@
 # coding-guideline-checklist
 
-This is a short checklist for you. Please check it before you submit your work to us.
+This is a short checklist for you. Please check it once before you start to code and once again before you submit your work to us.
 
 1. Only for `Nuxt.js` projects: `Bootstrap-vue` is **not** imported repeatedly in multiple `Vue.js components`. [Details](https://github.com/Webhikers-Docs/nuxt-bootstrap-doc)
 
