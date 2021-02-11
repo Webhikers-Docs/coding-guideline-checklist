@@ -18,7 +18,7 @@ This is a short checklist for you. Please check it once before you start to code
 
 7. The app *never* uses `<a></a>` tags. Instead, **always** use `<nuxt-link></nuxt-link>`, `<router-link></router-link>`, or `<b-link></b-link>`.
     
-8. You always use `native nuxt transitions` and no external `Vue.js` transition plugins. Such as `<transition name="fade"><div v-if="true"></div></transition>`
+8. You always use [native nuxt transitions](https://nuxtjs.org/docs/2.x/features/transitions) and no external `Vue.js` transition plugins. Such as `<transition name="fade"><div v-if="true"></div></transition>`
         
 9. All clickable elements and other elements with any kind of interaction have `css transitions` for better UX
 10. You use `nuxt layouts` for pages with different layouts. For example, pages with a transparent `navbar` could use a `transparent-layout` file and pages with a non-transparent navbar could use a `non-transparent-layout` file in `nuxt/layouts/`.
