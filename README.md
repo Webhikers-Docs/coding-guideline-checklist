@@ -26,3 +26,5 @@ This is a short checklist for you. Please check it once before you start to code
 11. You use a `<div class="container"></div>` for the content of all legal pages (`impressum`, `privacy`, `terms`, `cookies`)
 
 12. The page's content is always fetched in `asyncData` and not in 'fetch' hook.
+
+13. All `legal` pages, such as (`impressum`, `privacy`, `terms`, `cookies`) have a fully functional layout with `footer` and `header`.
