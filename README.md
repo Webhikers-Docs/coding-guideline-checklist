@@ -31,4 +31,4 @@ This is a short checklist for you. Please check it once before you start to code
 
 14. All `legal` pages, such as (`impressum`, `privacy`, `terms`, `cookies`) have a fully functional layout with `footer` and `header`.
 
-15. All images are styled properly with `css` and **do not** rely on cropped image formates that coming shippied by our designers. Users should be able to exchange all images in the CMS later, without any cropping rounding the corners. So Image size, rounded-corners, responsivesness **must** be set in `css`.
+15. All images are styled properly with `css` and **do not** rely on cropped image formats that are coming shipped by our designers. Users should be able to exchange all images in the CMS later, without any cropping rounding the corners. So Image size, rounded-corners, responsivesness **must** be set in `css`.
