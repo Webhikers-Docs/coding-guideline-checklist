@@ -36,3 +36,6 @@ This is a short checklist for you. Please check it once before you start to code
 16. Form Submission buttons must be equpped with a [bootstrap spinner](https://getbootstrap.com/docs/4.5/components/spinners). Show the spinner and `disabled` the button after form submission and remove the `spinner` and `disabled` attribute when there is a submission error.
 
 17. Each form MUST be eqipped with a fully working legal checkbox linking to terms&conditions and and privacy policy. Currently we handle the form validation on the server, so you don't need an extra frontend validation for the checkbox.
+
+18. You've included a favicon
+19. You've included a sitemap
